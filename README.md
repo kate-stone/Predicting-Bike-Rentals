@@ -1,6 +1,6 @@
 # Predicting Bike Rentals
 
-Bike sharing systems continue to pop up in a number of cities across the world as an alternative form of transportation. The popularity of these systems can be attributed to their ease of use and the important role they play in combating various issues, including climate change. It's estimated that over 500 bike sharing programs composed of over 500,000 bikes are operating around the world today.
+Bike sharing systems continue to pop up in a number of cities across the world offering commuters an alternative form of transportation. The popularity of these systems can be attributed to their ease of use and the important role they play in combating various issues, including climate change. It's estimated that over 500 bike sharing programs composed of over 500,000 bikes are operating around the world today.
 
 One of the appeals of these systems from a data science perspective is the way they explicitly record the duration of travel, departure and arrival position of each bike. By analysing this data we can get an idea of the level of mobility in a city at a given time.
 
